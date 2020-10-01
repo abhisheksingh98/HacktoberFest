@@ -1,16 +1,19 @@
-# Hacktoberfest
+# HacktoberFest 2020
+ 
+### Happy Hacktober! :octocat: 
 
-Happy Hacktober! :octocat: This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt.
+This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt.
 
-If you are a beginner, and looking for your first contribution, I'm here to help. Just append your favorite program/code be it hello world or some pattern printing in
-https://github.com/abhisheksingh98/Hacktoberfest
-and that counts as your first PR.
+If you are a beginner, and looking for your first contribution, I'm here to help. 
+
+Just append your favorite program/code be it hello world or some pattern printing in https://github.com/abhisheksingh98/HacktoberFest and that counts as your first PR.
+
 Read Here or Refer to https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide for more.
 
 
    ## Easy Guidelines
                 
-To make your First PR follow the below commands:
+#### To make your First PR follow the below commands:
     
     1. Fork this repo
     
@@ -34,7 +37,9 @@ To make your First PR follow the below commands:
 
 
     Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
+    
     Happy?? Star ⭐ this Repo. 🤩
+    
     Check your Hacktoberfest Contribution status at:
     https://hacktoberfest.digitalocean.com/profile
     
