@@ -6,9 +6,9 @@ This is a beginner friendly repository made specifically for Hacktoberfest that 
 
 If you are a beginner, and looking for your first contribution, I'm here to help. 
 
-Just append your favorite program/code be it hello world or some pattern printing in https://github.com/abhisheksingh98/HacktoberFest and that counts as your first PR.
+Just append your favorite program/code be it hello world or some pattern printing in [HacktoberFest](https://github.com/abhisheksingh98/HacktoberFest) and that counts as your first PR.
 
-Read Here or Refer to https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide for more.
+Read Here or Refer to [Git](https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide) for more.
 
 
    ## Easy Guidelines
@@ -137,5 +137,5 @@ You should navigate to your forked repository, and press the “New pull request
     
 ##    Happy?? Star ⭐ this Repo. 🤩
     
-###    Check your Hacktoberfest Contribution status at: https://hacktoberfest.digitalocean.com/profile
+###    Check your Hacktoberfest Contribution status at: [Digital Ocean](https://hacktoberfest.digitalocean.com/profile)
     
