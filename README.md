@@ -20,7 +20,7 @@ Read Here or Refer to [Git](https://www.digitalocean.com/community/tutorials/how
    Use the `git clone` command with the repository URL from the command line in a terminal window:
 
 ```
-git clone https://github.com/your-username/Hacktoberfest.git
+git clone https://github.com/your-username/HacktoberFest.git
 ```
 
 ### 2. Create a New Branch
