@@ -28,7 +28,7 @@ git clone https://github.com/your-username/HacktoberFest.git
 To create your branch, from your terminal, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository (i.e. Hacktoberfest) to change into that directory.
 
 ```
-cd Hacktoberfest
+cd HacktoberFest
 ```
 
 Now, we’ll create our new branch with the `git branch` command. Make sure you name it descriptively so that others working on the project understand what you are working on.
