@@ -8,14 +8,13 @@ and that counts as your first PR.
 Read Here or Refer to https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide for more.
 
 
-                ######Easy Guidelines######
+   ## Easy Guidelines
                 
 To make your First PR follow the below commands:
     
     1. Fork this repo
     
-    2. Go to Git Bash and write --> git clone https://github.com/USER_NAME/REPO_NAME.git  
-        and clone the repo in your local drive.
+    2. Go to Git Bash and write git clone https://github.com/USER_NAME/REPO_NAME.git and clone the repo in your local drive.
     
     3. Then type --> git checkout -b test
         to switch to a new test branch
