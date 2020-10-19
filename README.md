@@ -133,7 +133,7 @@ At this point, you are ready to make a pull request to the original repository.
 
 You should navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
 
-### Hurray!! You just got closer to complete your hacktoberfest challenge. 😃
+### Hurray!! You just got closer to complete your Hacktoberfest challenge. 😃
     
 ###    Happy?? Star ⭐ this Repo. 🤩
     
